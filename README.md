@@ -1,4 +1,14 @@
 # AWS_CodeDeploy_Example
+<br />
+Please make sure that you add the following files to your project for this to work
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp; appspec.yml
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp; the entire scripts folder
+<br />
+<a href="https://www.youtube.com/watch?v=F6oLG-LyIhc&t=372s">Tutorial</a>
+<br />
+<br />
 1. Create IAM Roles
 <br />
 CodeDeploy & EC2CodeDeploy
@@ -88,3 +98,5 @@ CodeDeploy & EC2CodeDeploy
     <br />
     <br />
    &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;     service codedeploy-agent status
+
+   
